@@ -1,0 +1,12 @@
+.navbar{
+    margin-top: 20px;
+}
+.navbar-brand img{
+    width: 155px;
+    height: 70px;
+}
+
+.nav-item{
+    margin-left: 25px;
+    font-weight: 600;
+}
