@@ -117,6 +117,13 @@
     background-color: white;
     border-top: none;
 }
+
+.lap-con{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+
 .extra-height{
     height: 500px;
     
