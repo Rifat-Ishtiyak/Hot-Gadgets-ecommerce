@@ -133,15 +133,34 @@
     height: 8px;
     background-image: linear-gradient(to right, #FFD019 0%, #FF9C35 100%);
     border-radius: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
 
-.categories .row{
-    border: 1px solid red;
+.categories .row .bag img{
+    padding: 100px 100px;
+    background-color: white;
+    box-shadow: 0px 0px 20px lightgray;
+    border-radius: 10px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 40px;
+    
 }
 
+.categories .row .per2 .row img{
+    padding: 90px 90px;
+    background-color: white;
+    box-shadow: 0px 0px 20px lightgray;
+    border-radius: 10px;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 40px;
+}
+
+ .per2 .row{
+    padding: 20px 20px;
+
+}
 
 .extra-height{
-    height: 500px;
+    height: 100px;
     
 }
